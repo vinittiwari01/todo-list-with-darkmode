@@ -19,25 +19,17 @@ Includes a stylish **Dark Mode** 🌙 for better user experience.
 - 📱 **Responsive Design: Works smoothly on both desktop and mobile  
 
 ---
+📁 Project Structure
 
-## 💡 Future Enhancements (Optional)
-- 🗂️ Category filters (Work, Personal, Study, etc.)
-- 🔺 Priority levels (High, Medium, Low)
-- 🔍 Search and sort functionality
-- ☁️ Cloud sync / user login
+todo-list-with-darkmode
+│
+├── index.html      # Main page (structure)
+├── style.css       # Styling (includes dark mode)
+├── script.js       # Functionality (JS logic)
+└── README.md       # Project documentation
 
----
 
-## 🧠 Tech Stack
-
-| Technology | Purpose |
-|-------------|----------|
-| **HTML5** | Page structure |
-| **CSS3** | Styling and responsive layout |
-| **JavaScript (Vanilla)** | Core functionality & local storage |
-| **Local Storage API** | Persistent data handling |
-
----
-
-## 📁 Project Structure
-
+👨‍💻 Author:-
+Vinit Tiwari<br>
+Email:- vinittiwari1106@gmail.com<br>
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/vinit-tiwari-5b265b380)<br>
