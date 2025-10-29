@@ -19,15 +19,6 @@ Includes a stylish **Dark Mode** 🌙 for better user experience.
 - 📱 **Responsive Design: Works smoothly on both desktop and mobile  
 
 ---
-📁 Project Structure
-
-todo-list-with-darkmode
-│
-├── index.html      # Main page (structure)
-├── style.css       # Styling (includes dark mode)
-├── script.js       # Functionality (JS logic)
-└── README.md       # Project documentation
-
 
 👨‍💻 Author:-
 Vinit Tiwari<br>
